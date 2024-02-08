@@ -38,7 +38,7 @@
     "cheerio": "^1.0.0-rc.10",
     "clarify": "^2.1.0",
     "coffeescript": "^2.5.1",
-    "commander": "*",
+    "commander": "11.0.0",
     "foundation-sites": "^6.6.3",
     "grunt": "^1.4.1",
     "grunt-compile-handlebars": "^2.0.2",
